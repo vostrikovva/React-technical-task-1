@@ -1,3 +1,5 @@
+The task was done on December, 2022
+
 # Some company name (NDA) front-end test 
 
 This is the technical test for your front-end application at Some company name (NDA). You are evaluated on your React knowledge, how you structure your code and the quality of the interface you are develop.
