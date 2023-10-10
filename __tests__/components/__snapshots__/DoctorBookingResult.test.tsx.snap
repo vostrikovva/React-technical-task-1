@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DoctorBookingResult component Snapshot test 1`] = `
+<div
+  className="root card"
+>
+  <div
+    className="card-body"
+  >
+    <div
+      className="mb-3 card-title h5"
+    >
+      You have an appointment with 
+      John Snow
+       on 
+      2022-10-25 12:30:00
+    </div>
+    <div
+      className="row mb-10"
+    >
+      <div
+        className="col-auto d-flex align-items-start"
+      >
+        <div
+          className="card-subtitle h6"
+        >
+          Address
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        <p
+          className="mb-0 card-text"
+        >
+          GF, Port Sébastien
+        </p>
+        <p
+          className="mb-0 card-text"
+        >
+          Postal Code: 
+          98950
+        </p>
+        <p
+          className="mb-0 card-text"
+        >
+          Address line 1: 
+          6037 Tonnin de l'Odéon
+        </p>
+        <p
+          className="mb-0 card-text"
+        >
+          Address line 2: 
+          Suite 363
+        </p>
+      </div>
+    </div>
+    <div
+      className="mt-2 d-flex justify-content-end"
+    >
+      Created at: 
+      2022-10-22 22:33:13
+    </div>
+  </div>
+</div>
+`;

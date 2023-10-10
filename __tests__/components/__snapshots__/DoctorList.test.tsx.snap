@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DoctorList component Snapshot test 1`] = `
+[
+  <div
+    className="root m-2 card"
+  >
+    <div
+      className="card-body"
+    >
+      <div
+        className="mb-3 card-title h5"
+      >
+        Dr. Hortense Benoit
+      </div>
+      <div
+        className="row mb-10"
+      >
+        <div
+          className="col-auto d-flex align-items-center"
+        >
+          <div
+            className="card-subtitle h6"
+          >
+            Address
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <p
+            className="mb-0 card-text"
+          >
+            GU, Le gallhaven
+          </p>
+          <p
+            className="mb-0 card-text"
+          >
+            Postal Code: 
+            75830
+          </p>
+          <p
+            className="mb-0 card-text"
+          >
+            Address line 1: 
+            551 Élisée de la Bûcherie
+          </p>
+          <p
+            className="mb-0 card-text"
+          >
+            Address line 2: 
+            Suite 975
+          </p>
+        </div>
+      </div>
+      <div
+        className="mt-2 d-flex justify-content-end"
+      >
+        <button
+          className="btn btn-primary"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Booking
+        </button>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="root m-2 card"
+  >
+    <div
+      className="card-body"
+    >
+      <div
+        className="mb-3 card-title h5"
+      >
+        Dr. Abdonie Adam
+      </div>
+      <div
+        className="row mb-10"
+      >
+        <div
+          className="col-auto d-flex align-items-center"
+        >
+          <div
+            className="card-subtitle h6"
+          >
+            Address
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <p
+            className="mb-0 card-text"
+          >
+            PA, Lake Pénélope
+          </p>
+          <p
+            className="mb-0 card-text"
+          >
+            Postal Code: 
+            44493
+          </p>
+          <p
+            className="mb-0 card-text"
+          >
+            Address line 1: 
+            050 Garnier de la Paix
+          </p>
+          <p
+            className="mb-0 card-text"
+          >
+            Address line 2: 
+            Suite 124
+          </p>
+        </div>
+      </div>
+      <div
+        className="mt-2 d-flex justify-content-end"
+      >
+        <button
+          className="btn btn-primary"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Booking
+        </button>
+      </div>
+    </div>
+  </div>,
+]
+`;

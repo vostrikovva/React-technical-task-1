@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApplicationLayout component Snapshot test 1`] = `
+[
+  <div
+    className="p-3"
+  >
+    <h1>
+      Doctor booking service
+    </h1>
+    <hr />
+  </div>,
+  <div
+    className="content"
+  />,
+]
+`;
